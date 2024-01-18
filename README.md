@@ -1,3 +1,6 @@
+[![🧪 CI/CD](https://github.com/OlenaYefymenko/BlueSky/actions/workflows/ci.yml/badge.svg)](https://github.com/OlenaYefymenko/BlueSky/actions/workflows/ci.yml?query=branch%3Amain)
+
+
 🖼️ Image Gallery App 📸
 
 ## Overview
