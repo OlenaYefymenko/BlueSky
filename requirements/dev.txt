@@ -4,5 +4,9 @@
 #
 #    pip-compile dev.in
 #
-unicorn==2.0.1.post1
+click==8.1.7
+    # via uvicorn
+h11==0.14.0
+    # via uvicorn
+uvicorn==0.26.0
     # via -r dev.in
